@@ -1,7 +1,7 @@
 # Linear_argebra
 선형대수 과제용 저장소입니다.
 
-- 내용 n x n matrix 을 입력으로 받아서  upper triangular matrix 로 출력함
+내용 : n x n matrix 을 입력으로 받아서  upper triangular matrix 로 출력함
 
 . 사용자로 부터 n x n matrix 받는 형식은 자유
 
