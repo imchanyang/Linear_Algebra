@@ -1,4 +1,4 @@
-# Linear_argebra
+# Linear_Algebra
 선형대수 과제용 저장소입니다.
 
 ## 1차 과제
